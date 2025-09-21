@@ -18,7 +18,7 @@ Demo Video - https://www.loom.com/share/981397b5c00b43f289141be52056fe55
 - **Indian Rupee Support**: Full localization with ₹ currency formatting
 - Advanced OCR for receipt images (JPG, PNG)
 
-### 🚧 Planned Features
+### Planned Features
 
 - Budget setting and tracking
 - Export data to CSV/PDF
