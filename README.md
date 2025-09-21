@@ -1,7 +1,7 @@
 # Personal Finance Assistant (India)
 
 A full-stack web application to help users track, manage, and understand their financial activities in Indian Rupees (₹). Built with Node.js, Express, MongoDB for the backend and React with Tailwind CSS for the frontend.
-## Features
+Demo Video - https://www.loom.com/share/981397b5c00b43f289141be52056fe55
 
 ###  Completed Features
 - **User Authentication**: Register and login with JWT-based authentication
